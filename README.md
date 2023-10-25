@@ -24,6 +24,4 @@ While creating the function app in Azure:
 
 The deployed function failed to run ... I'll troubleshoot later ...
 
-
-
-
+First I'll investigate an issue I had with Google Cloud: see https://github.com/v42net/gcloud-appengine-test-1
